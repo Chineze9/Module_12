@@ -1,1 +1,3 @@
 # Module_12<img width="1512" alt="Screen Shot 2022-06-09 at 8 03 31 AM" src="https://user-images.githubusercontent.com/98244064/172880229-7f19fede-5a09-4b81-b28e-53fc5701cf41.png">
+<img width="1211" alt="plotly_map" src="https://user-images.githubusercontent.com/98244064/172948161-4f88f244-4cb3-4a6a-b677-4b92db34ba74.png">
+The dashboard was completed for Roza as requested. Using her completed panel for demographic information i was able to finish so she can visualize the bacterial data for each volunteer. This will enable her volunteers identify the top 10 bacterial species in their belly buttons and determine if that speciesare found in their navel. This was achieved by working with the Bar Chart, the Bubble Chart, and the Gauge Chart.
